@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "name": "WeAreDevelopers World Congress 2026",
+    "dates": {
+      "day0": "Wednesday, 8 July 2026",
+      "day1": "Thursday, 9 July 2026",
+      "day2": "Friday, 10 July 2026"
+    },
+    "location": {
+      "city": "Berlin",
+      "country": "Germany",
+      "venue": "CityCube Berlin"
+    },
+    "website": "https://www.wearedevelopers.com/world-congress",
+    "scraped_at": "2026-06-25"
+  },
+  "count": 5,
+  "masterclasses": [
+    {
+      "id": "event-driven-microservices-patterns-and-practices-for-produc-1142385",
+      "title": "Event-Driven Microservices: Patterns and Practices for Production-Ready Systems",
+      "description": "Event-driven architecture has become a key pattern for building scalable, resilient, and loosely coupled systems, especially in microservices environments. However, designing and implementing such architectures effectively in real-world scenarios remains a challenge.\r\n\r\nThis full-day, hands-on workshop provides a practical deep dive into designing microservices that communicate through events. Participants will learn how to architect services using asynchronous, event-based patterns to improve system modularity and flexibility. The workshop is technology-agnostic, focusing on concepts and patterns that can be applied across platforms, using message brokers such as Apache Kafka.\r\n\r\nThrough presentations, exercises, and collaborative system design, attendees will explore core topics including event choreography vs orchestration, message design, delivery guarantees, idempotency, observability, and failure handling. Realistic scenarios and challenges will help solidify understanding of how to apply these patterns effectively.\r\n\r\nThe workshop also addresses practical concerns such as schema evolution, monitoring message flows, using dead-letter queues, and ensuring reliability in distributed systems. Participants will walk away with a clear understanding of both the advantages and tradeoffs of event-driven communication in microservices.\r\n\r\nThis workshop is aimed at software engineers and architects with prior experience in building distributed systems or microservices. No specific programming language knowledge is required; examples and labs are designed to focus on architecture and system behavior rather than language syntax.\r\n\r\nBy the end of the day, participants will be equipped with a set of actionable techniques, best practices, and mental models for designing robust event-driven systems that are ready for production.",
+      "speakers": [],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/masterclasses/event-driven-microservices-patterns-and-practices-for-produc-1142385"
+    },
+    {
+      "id": "mastering-software-architecture-1152174",
+      "title": "Mastering Software Architecture",
+      "description": "In this full-day masterclass, expert David Tielke will guide you through the foundations, tools, and real-world strategies for designing, implementing, and maintaining modern, scalable software architectures.",
+      "speakers": [],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/masterclasses/mastering-software-architecture-1152174"
+    },
+    {
+      "id": "modern-angular-architectures-signalstore-signal-forms-and-ag-1144768",
+      "title": "Modern Angular Architectures: SignalStore, Signal Forms, and Agentic UI",
+      "description": "This interactive workshop updates your Angular skills for 2026. We build a modern, reactive architecture based on Signals and Resources, and use the new NgRx Signal Store for lean, consistent state management.\r\n\r\nAfter that, we integrate the brand-new Signal Forms and develop an AI assistant that guides users through the application in a context-aware way — generating answers and dynamically providing relevant UI components.\r\n\r\nThe goal is a clear, future-proof architecture that combines Angular’s latest features in a practical and meaningful way.",
+      "speakers": [],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/masterclasses/modern-angular-architectures-signalstore-signal-forms-and-ag-1144768"
+    },
+    {
+      "id": "spec-first-development-building-and-modernizing-apps-with-ag-1144169",
+      "title": "Spec First Development: Building and Modernizing Apps with Agentic AI",
+      "description": "Agentic AI is moving fast from hype to hands on reality. But most teams still struggle with the same questions:\r\n- How do I prompt agents effectively?\r\n- How do I control context and tools?\r\n- And how do I use agentic AI in real brownfield and greenfield projects without creating chaos?\r\n\r\nIn this full day masterclass, we start by grounding participants in what they actually need to know about agentic AI. We cover practical prompting strategies, context engineering, and MCP, with a clear focus on what works in real projects. No buzzwords. No magic thinking.\r\n\r\nBring your own project and your own agentic AI setup. Participants can work on their own ideas or systems, or follow along with provided examples.\r\n\r\nI will use examples with GitHub and Azure as this is my personally preferred tech stack, but the learnings and patterns apply everywhere.\r\n\r\nFrom there, we go fully hands on. Using spec kit, participants work through a choose your own adventure style journey. You decide whether you start from a greenfield idea or a brownfield application. Step by step, we turn specifications into working code and cloud ready artifacts using agentic workflows.\r\n\r\nThis is not a slide heavy workshop. You will write specs, guide agents, debug outcomes, and learn where agentic AI shines and where it clearly does not.\r\n\r\nYou will leave with concrete patterns and mental models you can apply immediately in your own projects.\r\n\r\nNo prior experience with agentic AI is required.\r\nBasic software development experience is highly recommended.",
+      "speakers": [],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/masterclasses/spec-first-development-building-and-modernizing-apps-with-ag-1144169"
+    },
+    {
+      "id": "the-software-engineer-2030-from-coder-to-ai-orchestrator-1152164",
+      "title": "The Software Engineer 2030: From Coder To AI Orchestrator?",
+      "description": "In this full-day masterclass, Patrick Schnell guides you through the transformation from routine coder to AI-savvy software architect. Learn the critical human skills machines can’t replicate, from systems thinking and specification design to ethical decision-making and multi-agent orchestration.",
+      "speakers": [],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/masterclasses/the-software-engineer-2030-from-coder-to-ai-orchestrator-1152164"
+    }
+  ]
+}

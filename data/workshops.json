@@ -1,0 +1,1172 @@
+{
+  "meta": {
+    "name": "WeAreDevelopers World Congress 2026",
+    "dates": {
+      "day0": "Wednesday, 8 July 2026",
+      "day1": "Thursday, 9 July 2026",
+      "day2": "Friday, 10 July 2026"
+    },
+    "location": {
+      "city": "Berlin",
+      "country": "Germany",
+      "venue": "CityCube Berlin"
+    },
+    "website": "https://www.wearedevelopers.com/world-congress",
+    "scraped_at": "2026-06-25"
+  },
+  "count": 73,
+  "workshops": [
+    {
+      "id": "prompt-engineering-hands-on-1142552",
+      "title": "Prompt Engineering Hands-on",
+      "description": "This hands-on workshop teaches prompt engineering by working directly with Large Language Models.",
+      "day": "Wed 8 Jul",
+      "timeRange": "11:00 – 13:00",
+      "speaker": {
+        "name": "Harald Nezbeda",
+        "title": "Python Technical Lead",
+        "company": "Anexia"
+      },
+      "tags": [
+        "AI Models"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/prompt-engineering-hands-on-1142552"
+    },
+    {
+      "id": "teaching-kubernetes-security-in-your-cluster-1139579",
+      "title": "Teaching Kubernetes Security in your Cluster",
+      "description": "The workshop shows how to teach hands on Kubernetes trainings lessons in your own cluster environment with Jupyter notebooks \n\nStarting with the basics we extend the examples…",
+      "day": "Wed 8 Jul",
+      "timeRange": "11:00 – 13:00",
+      "speaker": {
+        "name": "Thomas Fricke",
+        "title": "Cloud Security Architect",
+        "company": ""
+      },
+      "tags": [
+        "Containers"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/teaching-kubernetes-security-in-your-cluster-1139579"
+    },
+    {
+      "id": "the-decisions-developers-make-without-noticing-and-how-to-make-them-better-1103524",
+      "title": "The Decisions Developers Make Without Noticing – And How to Make Them Better",
+      "description": "Developers make critical decisions long before they write code — often without consciously noticing them.",
+      "day": "Wed 8 Jul",
+      "timeRange": "11:00 – 13:00",
+      "speaker": {
+        "name": "Stan Bühne",
+        "title": "Managing Director",
+        "company": "IREB"
+      },
+      "tags": [
+        "AI Coding Assistants"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/the-decisions-developers-make-without-noticing-and-how-to-make-them-better-1103524"
+    },
+    {
+      "id": "rust-on-robots-hands-on-embedded-rust-on-stm32-1154375",
+      "title": "Rust on Robots: Hands-on Embedded Rust on STM32",
+      "description": "Rust is fast, modern, and great at catching typical embedded mistakes early—exactly what you want on real robots.",
+      "day": "Wed 8 Jul",
+      "timeRange": "11:00 – 13:00",
+      "speaker": {
+        "name": "Robert Jeutter",
+        "title": "Software Architect",
+        "company": "CORPULS"
+      },
+      "tags": [
+        "Embedded Systems"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/rust-on-robots-hands-on-embedded-rust-on-stm32-1154375"
+    },
+    {
+      "id": "from-cobol-to-java-how-developers-transition-60-years-of-legacy-into-modern-java-1134961",
+      "title": "From COBOL to Java: How Developers Transition 60 Years of Legacy into Modern Java Services",
+      "description": "COBOL systems written decades ago still power some of the most critical parts of modern banking.",
+      "day": "Wed 8 Jul",
+      "timeRange": "11:00 – 13:00",
+      "speaker": {
+        "name": "Jannis Eickenroth <span class=\"text-base-content/60\"> +2 more</span>",
+        "title": "Head of Analytics and Customer Insight",
+        "company": "Finanz Informatik"
+      },
+      "tags": [
+        "AI Coding Assistants"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/from-cobol-to-java-how-developers-transition-60-years-of-legacy-into-modern-java-1134961"
+    },
+    {
+      "id": "agents-of-football-build-ai-agents-that-compete-in-live-football-matches-1249052",
+      "title": "Agents of Football: Build AI Agents That Compete in Live Football Matches",
+      "description": "Meet your hackathon organizers and technical influencer judges, then dive into the Football for Good theme that will drive 3 days of building.",
+      "day": "Wed 8 Jul",
+      "timeRange": "11:00 – 13:00",
+      "speaker": {
+        "name": "Roland Odorfer <span class=\"text-base-content/60\"> +1 more</span>",
+        "title": "Solutions Architect",
+        "company": "AWS"
+      },
+      "tags": [
+        "AI Models"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/agents-of-football-build-ai-agents-that-compete-in-live-football-matches-1249052"
+    },
+    {
+      "id": "what-do-we-need-to-deliver-high-quality-products-1121149",
+      "title": "What do we need to deliver high quality products?",
+      "description": "Quality assurance is an issue for every development step and for each individual team member.",
+      "day": "Wed 8 Jul",
+      "timeRange": "11:00 – 13:00",
+      "speaker": {
+        "name": "Erhardt Wunderlich",
+        "title": "Member",
+        "company": "German Testing Board"
+      },
+      "tags": [
+        "Agile"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/what-do-we-need-to-deliver-high-quality-products-1121149"
+    },
+    {
+      "id": "deep-dive-mastering-agents-mcp-and-other-hypes-1109899",
+      "title": "Deep Dive: Mastering Agents, MCP and other hypes",
+      "description": "Building intelligent applications and integrating AI into modern software is an exciting but complex task.",
+      "day": "Wed 8 Jul",
+      "timeRange": "11:00 – 13:00",
+      "speaker": {
+        "name": "Dr. Damir Dobric",
+        "title": "Lead Architect and CEO",
+        "company": "DAENET/ACP Digital"
+      },
+      "tags": [
+        "AI Coding Assistants"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/deep-dive-mastering-agents-mcp-and-other-hypes-1109899"
+    },
+    {
+      "id": "from-messy-addresses-to-production-ready-data-build-a-location-enrichment-pipeli-1258915",
+      "title": "From messy addresses to production-ready data: Build a location enrichment pipeline on AWS with HERE",
+      "description": "Location data often works in development and quietly fails in production.",
+      "day": "Wed 8 Jul",
+      "timeRange": "13:30 – 15:30",
+      "speaker": {
+        "name": "Alberts Jekabsons",
+        "title": "Senior Developer Evangelist",
+        "company": "HERE"
+      },
+      "tags": [
+        "APIs"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/from-messy-addresses-to-production-ready-data-build-a-location-enrichment-pipeli-1258915"
+    },
+    {
+      "id": "beyond-the-thor-s-hammer-pragmatic-agentic-ai-with-caching-reuse-and-cost-guardr-1154224",
+      "title": "Beyond the Thor’s Hammer: Pragmatic Agentic AI with Caching, Reuse, and Cost Guardrails",
+      "description": "Agentic AI has become the default “big hammer”: throw more agents at the workflow, add more tools, loop until it works.",
+      "day": "Wed 8 Jul",
+      "timeRange": "13:30 – 15:30",
+      "speaker": {
+        "name": "Satej Sahu",
+        "title": "Principal Data Engineer",
+        "company": "Zalando"
+      },
+      "tags": [
+        "AI Models"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/beyond-the-thor-s-hammer-pragmatic-agentic-ai-with-caching-reuse-and-cost-guardr-1154224"
+    },
+    {
+      "id": "engineering-customer-journey-analytics-at-scale-lessons-from-germany-s-largest-b-1251233",
+      "title": "Engineering Customer Journey Analytics at Scale: Lessons from Germany's Largest Banking Platform",
+      "description": "Customer experience is only as good as your ability to understand what happens across complex digital processes.",
+      "day": "Wed 8 Jul",
+      "timeRange": "13:30 – 15:30",
+      "speaker": {
+        "name": "Sophie-Theresa Kleinke <span class=\"text-base-content/60\"> +2 more</span>",
+        "title": "Data Engineer",
+        "company": "Finanz Informatik"
+      },
+      "tags": [
+        "Analytics"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/engineering-customer-journey-analytics-at-scale-lessons-from-germany-s-largest-b-1251233"
+    },
+    {
+      "id": "trust-code-you-didn-t-write-from-code-review-to-confidence-1264776",
+      "title": "Trust code you didn't write: From code review to confidence",
+      "description": "Agents let us produce code faster than developers can realistically review, understand, and reason about, sometimes leading to unintentional side effects and bugs.",
+      "day": "Wed 8 Jul",
+      "timeRange": "13:30 – 15:30",
+      "speaker": {
+        "name": "Carl Fagerlin <span class=\"text-base-content/60\"> +1 more</span>",
+        "title": "Forward Deploy Engineer",
+        "company": "Oplane"
+      },
+      "tags": [
+        "AppSec"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/trust-code-you-didn-t-write-from-code-review-to-confidence-1264776"
+    },
+    {
+      "id": "getting-started-with-hexagonal-architecture-1122343",
+      "title": "Getting started with Hexagonal Architecture",
+      "description": "You’ve probably heard of hexagonal architecture — an approach that promises to clearly separate business logic from technical concerns, improve testability, and allow for flexib…",
+      "day": "Wed 8 Jul",
+      "timeRange": "13:30 – 15:30",
+      "speaker": {
+        "name": "Dagmar de Haan",
+        "title": "Software Developer and IT Architect",
+        "company": ""
+      },
+      "tags": [
+        "Legacy"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/getting-started-with-hexagonal-architecture-1122343"
+    },
+    {
+      "id": "build-an-agentic-full-stack-tabletop-game-master-application-1249057",
+      "title": "Build an agentic full-stack tabletop game master application",
+      "description": "I've run AI-powered tabletop game master sessions at conferences where the audience became the adventuring party and an AI ran the game.",
+      "day": "Wed 8 Jul",
+      "timeRange": "13:30 – 15:30",
+      "speaker": {
+        "name": "Salih Guler",
+        "title": "Senior Developer Advocate",
+        "company": "AWS"
+      },
+      "tags": [
+        "AI Models"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/build-an-agentic-full-stack-tabletop-game-master-application-1249057"
+    },
+    {
+      "id": "mcp-is-all-you-need-to-make-an-ai-agent-consume-your-restful-api-1074335",
+      "title": "MCP is all you need to make an AI-agent consume your RESTful API",
+      "description": "Turn any existing REST API into an AI-native backend—no frontend required.",
+      "day": "Wed 8 Jul",
+      "timeRange": "13:30 – 15:30",
+      "speaker": {
+        "name": "Nikos Delis",
+        "title": "Founder and CEO",
+        "company": "Aristevin"
+      },
+      "tags": [
+        "AI Models"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/mcp-is-all-you-need-to-make-an-ai-agent-consume-your-restful-api-1074335"
+    },
+    {
+      "id": "build-a-production-ready-ai-agent-in-90-minutes-1146318",
+      "title": "Build a Production-Ready AI Agent in 90 Minutes",
+      "description": "AI agent demos are everywhere.",
+      "day": "Wed 8 Jul",
+      "timeRange": "13:30 – 15:30",
+      "speaker": {
+        "name": "Tamas Piros",
+        "title": "AI Consultant",
+        "company": ""
+      },
+      "tags": [
+        "AI Models"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/build-a-production-ready-ai-agent-in-90-minutes-1146318"
+    },
+    {
+      "id": "the-art-and-science-behind-evaluating-ai-agents-at-scale-1127196",
+      "title": "The Art and Science behind evaluating AI Agents at scale",
+      "description": "Evaluating AI Agent is a mix of science and art.",
+      "day": "Wed 8 Jul",
+      "timeRange": "16:00 – 18:00",
+      "speaker": {
+        "name": "Alfonso Graziano",
+        "title": "AI Tech Lead",
+        "company": "Nearform"
+      },
+      "tags": [
+        "AI Coding Assistants"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/the-art-and-science-behind-evaluating-ai-agents-at-scale-1127196"
+    },
+    {
+      "id": "how-to-pitch-innovation-to-your-ceo-1136269",
+      "title": "How to Pitch Innovation to Your CEO",
+      "description": "Many innovations never make it to implementation.",
+      "day": "Wed 8 Jul",
+      "timeRange": "16:00 – 18:00",
+      "speaker": {
+        "name": "Linda Stauffenberg <span class=\"text-base-content/60\"> +1 more</span>",
+        "title": "Co-founder",
+        "company": "Experience One AG"
+      },
+      "tags": [
+        "Innovation"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/how-to-pitch-innovation-to-your-ceo-1136269"
+    },
+    {
+      "id": "how-does-a-java-agent-work-building-a-java-agent-from-scratch-1047626",
+      "title": "How does a Java agent work? Building a Java agent from scratch.",
+      "description": "Java agents let you modify application behavior at runtime without changing source code.",
+      "day": "Wed 8 Jul",
+      "timeRange": "16:00 – 18:00",
+      "speaker": {
+        "name": "Marco Sussitz",
+        "title": "Senior Software Developer",
+        "company": "Dynatrace"
+      },
+      "tags": [
+        "Java"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/how-does-a-java-agent-work-building-a-java-agent-from-scratch-1047626"
+    },
+    {
+      "id": "adopting-gitops-for-microservices-delivery-via-argo-cd-1119068",
+      "title": "Adopting GitOps for microservices delivery via Argo CD",
+      "description": "This workshop is dedicated to GitOps principles adoption with Argo CD for deploying your microservices to Kubernetes.",
+      "day": "Wed 8 Jul",
+      "timeRange": "16:00 – 18:00",
+      "speaker": {
+        "name": "Stas Lebedenko",
+        "title": "Cloud Architect",
+        "company": "Eficode"
+      },
+      "tags": [
+        "ArgoCD"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/adopting-gitops-for-microservices-delivery-via-argo-cd-1119068"
+    },
+    {
+      "id": "build-a-data-intensive-dashboard-that-actually-works-1253665",
+      "title": "Build a data-intensive dashboard (that actually works)",
+      "description": "In this hands-on workshop, you'll build a data-intensive dashboard using AI-assisted development, and stress-test it against real requirements: large datasets, cross-filtering,…",
+      "day": "Wed 8 Jul",
+      "timeRange": "16:00 – 18:00",
+      "speaker": {
+        "name": "Josh Hobson",
+        "title": "Senior Engineer",
+        "company": "AG Grid"
+      },
+      "tags": [
+        "Agentic AI"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/build-a-data-intensive-dashboard-that-actually-works-1253665"
+    },
+    {
+      "id": "ideate-strategize-defining-your-football-for-good-prototype-1249062",
+      "title": "Ideate & Strategize: Defining Your Football for Good Prototype",
+      "description": "Now that you've built AI agents hands-on and formed your team, it's time to decide what you'll create.",
+      "day": "Wed 8 Jul",
+      "timeRange": "16:00 – 18:00",
+      "speaker": {
+        "name": "Salih Guler",
+        "title": "Senior Developer Advocate",
+        "company": "AWS"
+      },
+      "tags": [
+        "AI Models"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/ideate-strategize-defining-your-football-for-good-prototype-1249062"
+    },
+    {
+      "id": "zero-to-binary-building-a-production-ready-ai-agent-in-go-1113613",
+      "title": "Zero to Binary: Building a Production-Ready AI Agent in Go",
+      "description": "Python is excellent for experimentation, but when it’s time to ship AI agents to production, you need the performance, concurrency, and type safety of Go.",
+      "day": "Wed 8 Jul",
+      "timeRange": "16:00 – 18:00",
+      "speaker": {
+        "name": "Rabieh Fashwall",
+        "title": "Technical Lead",
+        "company": "Galeria"
+      },
+      "tags": [
+        "AI Coding Assistants"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/zero-to-binary-building-a-production-ready-ai-agent-in-go-1113613"
+    },
+    {
+      "id": "from-vector-search-to-better-understanding-how-hybrid-rag-improves-answers-not-j-1108634",
+      "title": "From Vector Search to Better Understanding: How Hybrid RAG Improves Answers, Not Just Matches",
+      "description": "Retrieval-Augmented Generation is everywhere, and most teams start with vector search when building out these agents.",
+      "day": "Wed 8 Jul",
+      "timeRange": "16:00 – 18:00",
+      "speaker": {
+        "name": "David vonThenen",
+        "title": "Senior AI/ML Engineer",
+        "company": "NetApp"
+      },
+      "tags": [
+        "Embeddings"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/from-vector-search-to-better-understanding-how-hybrid-rag-improves-answers-not-j-1108634"
+    },
+    {
+      "id": "build-a-multi-agent-marathon-planner-with-adk-and-a2a-1242977",
+      "title": "Build a Multi-Agent Marathon Planner with ADK and A2A",
+      "description": "In this codelab, you build a multi-agent system where three specialized AI agents collaborate to plan a city marathon.",
+      "day": "Thu 9 Jul",
+      "timeRange": "10:30 – 12:30",
+      "speaker": {
+        "name": "Abdelfettah Sghiouar <span class=\"text-base-content/60\"> +1 more</span>",
+        "title": "Senior Cloud Developer Advocate",
+        "company": "Google"
+      },
+      "tags": [
+        "Multi-Agent Systems"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/build-a-multi-agent-marathon-planner-with-adk-and-a2a-1242977"
+    },
+    {
+      "id": "teaching-ai-to-code-in-every-language-with-nvidia-nemo-1245475",
+      "title": "Teaching AI to Code in Every Language with NVIDIA NeMo",
+      "description": "“Teaching AI to Code in Every Language with NVIDIA NeMo” is a hands-on training lab for machine learning practitioners, data scientists, and developers who want to build state-o…",
+      "day": "Thu 9 Jul",
+      "timeRange": "10:30 – 12:30",
+      "speaker": {
+        "name": "Antonio Rueda-Toicen",
+        "title": "Senior Developer Relations Manager",
+        "company": "NVIDIA"
+      },
+      "tags": [
+        "AI Models"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/teaching-ai-to-code-in-every-language-with-nvidia-nemo-1245475"
+    },
+    {
+      "id": "defending-the-modern-supply-chain-hands-on-vulnerability-remediation-1239436",
+      "title": "Defending the Modern Supply Chain: Hands-On Vulnerability Remediation",
+      "description": "Software supply chains grow more complex every day, bringing new risks from open-source dependencies.",
+      "day": "Thu 9 Jul",
+      "timeRange": "10:30 – 12:30",
+      "speaker": {
+        "name": "Patrick Feige <span class=\"text-base-content/60\"> +1 more</span>",
+        "title": "Senior Solutions Architect",
+        "company": "Veracode"
+      },
+      "tags": [
+        "AppSec"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/defending-the-modern-supply-chain-hands-on-vulnerability-remediation-1239436"
+    },
+    {
+      "id": "hands-on-amqp-with-lavinmq-decoupling-services-with-message-queues-1227875",
+      "title": "Hands-on AMQP with LavinMQ: Decoupling Services with Message Queues",
+      "description": "Most services still talk to each other over HTTP, blocking on each call and tightly coupling availability, deployment, and scaling.",
+      "day": "Thu 9 Jul",
+      "timeRange": "10:30 – 12:30",
+      "speaker": {
+        "name": "Erica Weistrand",
+        "title": "Developer Lead",
+        "company": "CloudAMQP"
+      },
+      "tags": [
+        "APIs"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/hands-on-amqp-with-lavinmq-decoupling-services-with-message-queues-1227875"
+    },
+    {
+      "id": "you-shall-not-pass-an-introduction-to-testing-authenftication-1122836",
+      "title": "You shall (not) pass!? An Introduction to Testing authenftication",
+      "description": "Like a door to a house or a shallow bridge from one cliff to the other: Some parts of your application are crucial and any damage or untrustworthy guide in those areas can have…",
+      "day": "Thu 9 Jul",
+      "timeRange": "10:30 – 12:30",
+      "speaker": {
+        "name": "Ramona Schwering",
+        "title": "Developer Advocate",
+        "company": "Auth0"
+      },
+      "tags": [
+        "AppSec"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/you-shall-not-pass-an-introduction-to-testing-authenftication-1122836"
+    },
+    {
+      "id": "building-modern-distributed-systems-using-less-ai-tokens-1245588",
+      "title": "Building Modern Distributed Systems using Less AI Tokens",
+      "description": "Modern distributed systems are often hard to understand - not only for developers, but also for AI coding assistants.",
+      "day": "Thu 9 Jul",
+      "timeRange": "10:30 – 12:30",
+      "speaker": {
+        "name": "Przemysław Ładyński",
+        "title": "CEO",
+        "company": "Graftcode"
+      },
+      "tags": [
+        "AI Coding Assistants"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/building-modern-distributed-systems-using-less-ai-tokens-1245588"
+    },
+    {
+      "id": "building-the-agentic-economy-with-x402-and-stablecoins-1238655",
+      "title": "Building the Agentic Economy with x402 and Stablecoins",
+      "description": "In this hands-on workshop, participants will build a complete x402 payment flow from both the service provider and AI agent perspectives.",
+      "day": "Thu 9 Jul",
+      "timeRange": "10:30 – 12:30",
+      "speaker": {
+        "name": "Gabriel Kuettel <span class=\"text-base-content/60\"> +1 more</span>",
+        "title": "Engineering Lead",
+        "company": "Algorand Foundation"
+      },
+      "tags": [
+        "APIs"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/building-the-agentic-economy-with-x402-and-stablecoins-1238655"
+    },
+    {
+      "id": "building-a-better-tomorrow-tips-and-tricks-for-docker-builds-1141034",
+      "title": "Building a Better Tomorrow: Tips and Tricks for Docker Builds",
+      "description": "Container are a fundamental building block of DevOps operations, yet building them efficiently and securely can be a burden: Often developers don’t know about the platforms’ sec…",
+      "day": "Thu 9 Jul",
+      "timeRange": "10:30 – 12:30",
+      "speaker": {
+        "name": "Daniel Bodky",
+        "title": "Senior Developer Advocate",
+        "company": "NETWAYS"
+      },
+      "tags": [
+        "Containers"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/building-a-better-tomorrow-tips-and-tricks-for-docker-builds-1141034"
+    },
+    {
+      "id": "hr-workshop-vibe-athon-where-hr-goes-to-build-1-4-1260769",
+      "title": "HR Workshop - Vibe:athon: Where HR Goes to Build 1/4",
+      "description": "If you can describe what you want, you can build it.",
+      "day": "Thu 9 Jul",
+      "timeRange": "10:30 – 12:30",
+      "speaker": {
+        "name": "Leandro Gomes da Silva <span class=\"text-base-content/60\"> +1 more</span>",
+        "title": "Founder",
+        "company": "The AI Laundry"
+      },
+      "tags": [],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/hr-workshop-vibe-athon-where-hr-goes-to-build-1-4-1260769"
+    },
+    {
+      "id": "github-copilot-from-zero-to-hero-1259312",
+      "title": "GitHub Copilot: From Zero to Hero",
+      "description": "AI isn't just auto-completing lines of code anymore—it’s evolutionizing how we architect, build, and ship software.",
+      "day": "Thu 9 Jul",
+      "timeRange": "10:30 – 12:30",
+      "speaker": {
+        "name": "Tugdual Grall <span class=\"text-base-content/60\"> +1 more</span>",
+        "title": "Strategic AI GTM Lead",
+        "company": "GitHub"
+      },
+      "tags": [
+        "AI Coding Assistants"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/github-copilot-from-zero-to-hero-1259312"
+    },
+    {
+      "id": "building-ai-apps-with-the-google-ecosystem-1242958",
+      "title": "Building AI apps with the Google ecosystem",
+      "description": "The way we build software has changed.",
+      "day": "Thu 9 Jul",
+      "timeRange": "13:00 – 15:00",
+      "speaker": {
+        "name": "Marina Coelho <span class=\"text-base-content/60\"> +1 more</span>",
+        "title": "Developer Relations Engineer",
+        "company": "Google"
+      },
+      "tags": [
+        "AGI (Artificial General Intelligence)"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/building-ai-apps-with-the-google-ecosystem-1242958"
+    },
+    {
+      "id": "accelerating-ai-inference-at-scale-a-deep-dive-into-nvidia-dynamo-on-kubernetes-1232920",
+      "title": "Accelerating AI Inference at Scale: A Deep Dive Into NVIDIA Dynamo on Kubernetes",
+      "description": "As foundation models move toward deeper test-time computation, inference becomes the dominant scaling constraint.",
+      "day": "Thu 9 Jul",
+      "timeRange": "13:00 – 15:00",
+      "speaker": {
+        "name": "Anshul Jindal <span class=\"text-base-content/60\"> +1 more</span>",
+        "title": "Senior Solution Architect",
+        "company": "NVIDIA"
+      },
+      "tags": [
+        "AI Models"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/accelerating-ai-inference-at-scale-a-deep-dive-into-nvidia-dynamo-on-kubernetes-1232920"
+    },
+    {
+      "id": "the-bright-data-build-off-ai-writes-the-ui-bright-data-brings-the-data-win-on-wh-1258575",
+      "title": "The Bright Data Build-Off | AI writes the UI. Bright Data brings the data. Win on what you build",
+      "description": "AI writes the UI.",
+      "day": "Thu 9 Jul",
+      "timeRange": "13:00 – 15:00",
+      "speaker": {
+        "name": "Rafael Levi",
+        "title": "Developer Relations Lead",
+        "company": "Bright Data"
+      },
+      "tags": [
+        "AI Models"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/the-bright-data-build-off-ai-writes-the-ui-bright-data-brings-the-data-win-on-wh-1258575"
+    },
+    {
+      "id": "building-scaling-custom-serverless-ai-1261926",
+      "title": "Building & scaling custom serverless AI",
+      "description": "When building custom AI solutions, you often have to rent a GPU 24/7.",
+      "day": "Thu 9 Jul",
+      "timeRange": "13:00 – 15:00",
+      "speaker": {
+        "name": "Panley Cooze",
+        "title": "Forward Deployed Engineer",
+        "company": "Runpod"
+      },
+      "tags": [
+        "AI Models"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/building-scaling-custom-serverless-ai-1261926"
+    },
+    {
+      "id": "the-best-sdlc-is-the-one-you-build-yourself-why-orchestration-changes-everything-1255086",
+      "title": "The best SDLC is the one you build yourself: Why orchestration changes everything",
+      "description": "Industry research shows AI productivity gains have plateaued at 10–15% — because today's tools only optimize the 20% of a developer's day spent writing code.",
+      "day": "Thu 9 Jul",
+      "timeRange": "13:00 – 15:00",
+      "speaker": {
+        "name": "Jovana Dunisijevic",
+        "title": "Senior Technical Evangelist",
+        "company": "Atlassian"
+      },
+      "tags": [
+        "AI Coding Assistants"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/the-best-sdlc-is-the-one-you-build-yourself-why-orchestration-changes-everything-1255086"
+    },
+    {
+      "id": "hr-workshop-vibe-athon-where-hr-goes-to-build-2-4-1260771",
+      "title": "HR Workshop - Vibe:athon: Where HR Goes to Build 2/4",
+      "description": "If you can describe what you want, you can build it.",
+      "day": "Thu 9 Jul",
+      "timeRange": "13:00 – 15:00",
+      "speaker": {
+        "name": "Leandro Gomes da Silva <span class=\"text-base-content/60\"> +1 more</span>",
+        "title": "Founder",
+        "company": "The AI Laundry"
+      },
+      "tags": [],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/hr-workshop-vibe-athon-where-hr-goes-to-build-2-4-1260771"
+    },
+    {
+      "id": "level-up-your-automation-with-github-agentic-workflows-1259318",
+      "title": "Level Up Your Automation with GitHub Agentic Workflows",
+      "description": "In this hands-on workshop, you'll build a repository assistant that can understand your project, identify high-impact work, investigate issues, propose fixes, and help keep main…",
+      "day": "Thu 9 Jul",
+      "timeRange": "13:00 – 15:00",
+      "speaker": {
+        "name": "Mara Kiefer",
+        "title": "Senior Research Engineer",
+        "company": "GitHub"
+      },
+      "tags": [
+        "Automation"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/level-up-your-automation-with-github-agentic-workflows-1259318"
+    },
+    {
+      "id": "developing-crash-proof-java-applications-1122204",
+      "title": "Developing Crash-Proof Java Applications",
+      "description": "Crashes and failures are inevitable, but they don’t have to be disruptive.",
+      "day": "Thu 9 Jul",
+      "timeRange": "15:30 – 17:30",
+      "speaker": {
+        "name": "Tom Wheeler",
+        "title": "Principal Developer Advocate",
+        "company": "Temporal"
+      },
+      "tags": [
+        "Distributed Systems"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/developing-crash-proof-java-applications-1122204"
+    },
+    {
+      "id": "faster-together-train-and-deploy-a-speculative-decoding-model-for-low-latency-ll-1245503",
+      "title": "Faster Together: Train and Deploy a Speculative Decoding Model for Low-Latency LLM Inference",
+      "description": "Dive deep into theory and practice of low-latency inference by deploying NVIDIA TensorRT-LLM with advanced speculative decoding techniques.",
+      "day": "Thu 9 Jul",
+      "timeRange": "15:30 – 17:30",
+      "speaker": {
+        "name": "Amit Kushwaha",
+        "title": "Principal Solutions Architect",
+        "company": "NVIDIA"
+      },
+      "tags": [
+        "AI Models"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/faster-together-train-and-deploy-a-speculative-decoding-model-for-low-latency-ll-1245503"
+    },
+    {
+      "id": "managing-sovereign-ai-infrastructure-mlops-and-llmops-in-highly-regulated-bankin-1135005",
+      "title": "Managing Sovereign AI Infrastructure: MLOps and LLMOps in Highly Regulated Banking IT",
+      "description": "AI only becomes strategically relevant when it can be operated reliably, securely, and sustainably.",
+      "day": "Thu 9 Jul",
+      "timeRange": "15:30 – 17:30",
+      "speaker": {
+        "name": "Matthias Kordt <span class=\"text-base-content/60\"> +1 more</span>",
+        "title": "Team Lead LLM Ops Data and AI Platform",
+        "company": "Finanz Informatik"
+      },
+      "tags": [
+        "AI Models"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/managing-sovereign-ai-infrastructure-mlops-and-llmops-in-highly-regulated-bankin-1135005"
+    },
+    {
+      "id": "spec-driven-development-with-agentic-skills-1253471",
+      "title": "Spec-Driven Development with Agentic Skills",
+      "description": "We'll dive into spec-driven development on the example of integrations development.",
+      "day": "Thu 9 Jul",
+      "timeRange": "15:30 – 17:30",
+      "speaker": {
+        "name": "Predrag Radenkovic <span class=\"text-base-content/60\"> +1 more</span>",
+        "title": "CTO",
+        "company": "*codeplain"
+      },
+      "tags": [
+        "Agentic AI"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/spec-driven-development-with-agentic-skills-1253471"
+    },
+    {
+      "id": "ducks-sensors-agents-hands-on-edge-ai-with-arduino-uno-q-1245574",
+      "title": "Ducks, Sensors & Agents: Hands-On Edge AI with Arduino UNO Q",
+      "description": "By the end of this workshop, attendees will be able to:\n\nPart 1 – Computer Vision:\n\n1.",
+      "day": "Thu 9 Jul",
+      "timeRange": "15:30 – 17:30",
+      "speaker": {
+        "name": "Jenny Speelman",
+        "title": "Staff Engineer",
+        "company": "Edge Impulse"
+      },
+      "tags": [
+        "AI Coding Assistants"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/ducks-sensors-agents-hands-on-edge-ai-with-arduino-uno-q-1245574"
+    },
+    {
+      "id": "shall-we-play-a-game-llm-security-in-practice-1051384",
+      "title": "Shall we play a Game? LLM Security in Practice",
+      "description": "Artificial Intelligence (AI) is no longer a futuristic concept.",
+      "day": "Thu 9 Jul",
+      "timeRange": "15:30 – 17:30",
+      "speaker": {
+        "name": "Joseph Katsioloudes",
+        "title": "Senior Developer Advocate",
+        "company": "GitHub"
+      },
+      "tags": [
+        "Secure Coding"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/shall-we-play-a-game-llm-security-in-practice-1051384"
+    },
+    {
+      "id": "hr-workshop-the-human-advantage-storytelling-in-the-age-of-ai-1260772",
+      "title": "HR Workshop - The Human Advantage: Storytelling in the Age of AI",
+      "description": "AI can generate code, emails, product descriptions, and pitch decks in seconds.",
+      "day": "Thu 9 Jul",
+      "timeRange": "15:30 – 17:30",
+      "speaker": {
+        "name": "Stefan Ganß",
+        "title": "Business Trainer",
+        "company": "Storytellingtrainer.de"
+      },
+      "tags": [],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/hr-workshop-the-human-advantage-storytelling-in-the-age-of-ai-1260772"
+    },
+    {
+      "id": "ai-that-acts-orchestrating-agents-in-modern-developer-workflows-securely-1259324",
+      "title": "AI That Acts: Orchestrating Agents in Modern Developer Workflows (securely)",
+      "description": "AI agents are no longer a concept — they're writing code, opening PRs, and running pipelines.",
+      "day": "Thu 9 Jul",
+      "timeRange": "15:30 – 17:30",
+      "speaker": {
+        "name": "Evgenij Renke",
+        "title": "Solutions Engineer",
+        "company": "GitHub"
+      },
+      "tags": [
+        "AI Models"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/ai-that-acts-orchestrating-agents-in-modern-developer-workflows-securely-1259324"
+    },
+    {
+      "id": "agents-at-scale-multi-agent-architecture-with-a2a-protocol-on-agent-runtime-and-1242914",
+      "title": "Agents at Scale: Multi-Agent Architecture with A2A Protocol on Agent Runtime and ADK Integration",
+      "description": "As AI agents take on more responsibilities, a single agent doing everything becomes hard to maintain, scale, and evolve.",
+      "day": "Fri 10 Jul",
+      "timeRange": "09:45 – 11:45",
+      "speaker": {
+        "name": "Javier Cañadillas <span class=\"text-base-content/60\"> +1 more</span>",
+        "title": "Senior IT Professional",
+        "company": "Google"
+      },
+      "tags": [],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/agents-at-scale-multi-agent-architecture-with-a2a-protocol-on-agent-runtime-and-1242914"
+    },
+    {
+      "id": "always-on-autonomous-ai-agents-exploring-the-openclaw-abstraction-1245511",
+      "title": "Always-On Autonomous AI Agents: Exploring the OpenClaw Abstraction",
+      "description": "As agents evolve from basic conversational interfaces to personal complex task navigators, the primary challenge shifts from writing context strategies to designing robust systems.",
+      "day": "Fri 10 Jul",
+      "timeRange": "09:45 – 11:45",
+      "speaker": {
+        "name": "Anshul Jindal",
+        "title": "Senior Solution Architect",
+        "company": "NVIDIA"
+      },
+      "tags": [
+        "Agents"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/always-on-autonomous-ai-agents-exploring-the-openclaw-abstraction-1245511"
+    },
+    {
+      "id": "vibe-cross-platform-apps-with-lynx-a-tiktok-hackathon-1260595",
+      "title": "Vibe³ Cross-Platform Apps with Lynx: A TikTok Hackathon",
+      "description": "AI is changing how apps are built, but most apps are still built one platform at a time.",
+      "day": "Fri 10 Jul",
+      "timeRange": "09:45 – 11:45",
+      "speaker": {
+        "name": "Xuan Huang · 黄玄",
+        "title": "Software Architect",
+        "company": "ByteDance"
+      },
+      "tags": [
+        "AI Coding Assistants"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/vibe-cross-platform-apps-with-lynx-a-tiktok-hackathon-1260595"
+    },
+    {
+      "id": "exploring-server-side-rendering-1054592",
+      "title": "Exploring Server Side Rendering",
+      "description": "Server-side rendering (SSR) is back in the spotlight—and React is evolving fast.",
+      "day": "Fri 10 Jul",
+      "timeRange": "09:45 – 11:45",
+      "speaker": {
+        "name": "Krasimir Tsonev",
+        "title": "Senior Engineer",
+        "company": "Antidote.me"
+      },
+      "tags": [
+        "Node.js"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/exploring-server-side-rendering-1054592"
+    },
+    {
+      "id": "from-hallucination-to-justification-hands-on-explainability-for-llms-1154072",
+      "title": "From Hallucination to Justification: Hands-On Explainability for LLMs",
+      "description": "Human beings are biased and often wrong.",
+      "day": "Fri 10 Jul",
+      "timeRange": "09:45 – 11:45",
+      "speaker": {
+        "name": "Lucía Conde-Moreno <span class=\"text-base-content/60\"> +1 more</span>",
+        "title": "Software Engineer",
+        "company": "Info Support"
+      },
+      "tags": [
+        "AI Coding Assistants"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/from-hallucination-to-justification-hands-on-explainability-for-llms-1154072"
+    },
+    {
+      "id": "bridging-llms-and-systems-practical-automation-with-mcp-tools-and-function-calls-1069624",
+      "title": "Bridging LLMs and Systems: Practical Automation with MCP Tools and Function Calls",
+      "description": "In this session, we’ll look at how a .NET-based solution enables Large Language Models (LLMs) to act as automation engines inside a VR application.",
+      "day": "Fri 10 Jul",
+      "timeRange": "09:45 – 11:45",
+      "speaker": {
+        "name": "Mehdi Mohseni",
+        "title": "Tech Lead and Lead Cloud Engineer",
+        "company": "Halocline"
+      },
+      "tags": [
+        "AI Models"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/bridging-llms-and-systems-practical-automation-with-mcp-tools-and-function-calls-1069624"
+    },
+    {
+      "id": "hr-workshop-vibe-athon-where-hr-goes-to-build-3-4-1260773",
+      "title": "HR Workshop - Vibe:athon: Where HR Goes to Build 3/4",
+      "description": "If you can describe what you want, you can build it.",
+      "day": "Fri 10 Jul",
+      "timeRange": "09:45 – 11:45",
+      "speaker": {
+        "name": "Leandro Gomes da Silva <span class=\"text-base-content/60\"> +1 more</span>",
+        "title": "Founder",
+        "company": "The AI Laundry"
+      },
+      "tags": [],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/hr-workshop-vibe-athon-where-hr-goes-to-build-3-4-1260773"
+    },
+    {
+      "id": "teaching-github-copilot-cobol-a-practical-guide-to-agentic-ai-legacy-modernizati-1259329",
+      "title": "Teaching GitHub Copilot COBOL: A Practical Guide to Agentic AI Legacy Modernization",
+      "description": "Everyone talks about modernizing legacy systems.",
+      "day": "Fri 10 Jul",
+      "timeRange": "09:45 – 11:45",
+      "speaker": {
+        "name": "Julia Kordick",
+        "title": "Senior Software Global Black Belt",
+        "company": "Microsoft"
+      },
+      "tags": [
+        "AI Models"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/teaching-github-copilot-cobol-a-practical-guide-to-agentic-ai-legacy-modernizati-1259329"
+    },
+    {
+      "id": "vibe-coding-with-postgres-from-zero-to-prod-in-your-ide-1242899",
+      "title": "Vibe Coding with Postgres: From Zero to Prod in Your IDE",
+      "description": "Vibe coding has revolutionized the speed and way we develop frontends, but it often hits a wall when it reaches the database.",
+      "day": "Fri 10 Jul",
+      "timeRange": "12:15 – 14:15",
+      "speaker": {
+        "name": "Miguel Toscano <span class=\"text-base-content/60\"> +1 more</span>",
+        "title": "Data and AI Specialist",
+        "company": "Google"
+      },
+      "tags": [],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/vibe-coding-with-postgres-from-zero-to-prod-in-your-ide-1242899"
+    },
+    {
+      "id": "compress-cut-and-distill-the-latest-gen-ai-model-compression-techniques-in-pract-1245514",
+      "title": "Compress, Cut, and Distill: The Latest Gen AI Model Compression Techniques in Practice",
+      "description": "This training lab explores the art and engineering of compressing large language models to make them cheaper, faster, and easier to deploy while preserving practical capability.",
+      "day": "Fri 10 Jul",
+      "timeRange": "12:15 – 14:15",
+      "speaker": {
+        "name": "Sergio Perez",
+        "title": "Senior Solution Architect",
+        "company": "NVIDIA"
+      },
+      "tags": [
+        "AI Models"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/compress-cut-and-distill-the-latest-gen-ai-model-compression-techniques-in-pract-1245514"
+    },
+    {
+      "id": "how-to-mess-up-jwt-s-a-practitioner-s-guide-1116813",
+      "title": "How to mess up JWT's - a practitioner's guide",
+      "description": "JSON Web Tokens are everywhere - you are using a bunch of them right now.",
+      "day": "Fri 10 Jul",
+      "timeRange": "12:15 – 14:15",
+      "speaker": {
+        "name": "Wekoslav Stefanovski",
+        "title": "Head Of Development",
+        "company": "Sourcico"
+      },
+      "tags": [
+        "Infosec"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/how-to-mess-up-jwt-s-a-practitioner-s-guide-1116813"
+    },
+    {
+      "id": "create-your-own-role-playing-game-with-agentic-ai-using-strands-agents-1243244",
+      "title": "Create Your Own Role-Playing Game with Agentic AI using Strands Agents",
+      "description": "Come discover how to code a Game Master that will orchestrate multiple AI agents, each specialized in a particular task.",
+      "day": "Fri 10 Jul",
+      "timeRange": "12:15 – 14:15",
+      "speaker": {
+        "name": "Arnaud Jean",
+        "title": "Developer Advocate",
+        "company": "AWS"
+      },
+      "tags": [
+        "AI Coding Assistants"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/create-your-own-role-playing-game-with-agentic-ai-using-strands-agents-1243244"
+    },
+    {
+      "id": "build-agents-that-can-pay-with-x402-from-your-laptop-to-a-live-network-1258827",
+      "title": "Build Agents That Can Pay with x402: From Your Laptop to a Live Network",
+      "description": "AI agents are starting to act on their own, but an agent that can't pay for anything is stuck asking a human for a credit card.",
+      "day": "Fri 10 Jul",
+      "timeRange": "12:15 – 14:15",
+      "speaker": {
+        "name": "Ed Marquez <span class=\"text-base-content/60\"> +2 more</span>",
+        "title": "Head of Developer Relations",
+        "company": "Hashgraph"
+      },
+      "tags": [
+        "AI Models"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/build-agents-that-can-pay-with-x402-from-your-laptop-to-a-live-network-1258827"
+    },
+    {
+      "id": "building-the-agentic-economy-with-x402-and-stablecoins-1238789",
+      "title": "Building the Agentic Economy with x402 and Stablecoins",
+      "description": "In this hands-on workshop, participants will build a complete x402 payment flow from both the service provider and AI agent perspectives.",
+      "day": "Fri 10 Jul",
+      "timeRange": "12:15 – 14:15",
+      "speaker": {
+        "name": "Jorrin Bruns <span class=\"text-base-content/60\"> +1 more</span>",
+        "title": "Integration Specialist",
+        "company": "Algorand Foundation"
+      },
+      "tags": [
+        "APIs"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/building-the-agentic-economy-with-x402-and-stablecoins-1238789"
+    },
+    {
+      "id": "genai-in-testing-using-github-copilot-to-accelerate-quality-without-losing-trust-1107886",
+      "title": "GenAI in Testing: Using GitHub Copilot to Accelerate Quality Without Losing Trust",
+      "description": "Generative AI is rapidly changing how developers write code—but its impact on testing and quality engineering is often misunderstood.",
+      "day": "Fri 10 Jul",
+      "timeRange": "12:15 – 14:15",
+      "speaker": {
+        "name": "Moataz Nabil",
+        "title": "Software Engineering Manager",
+        "company": "AVIV Group"
+      },
+      "tags": [
+        "Automation Testing"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/genai-in-testing-using-github-copilot-to-accelerate-quality-without-losing-trust-1107886"
+    },
+    {
+      "id": "hr-workshop-the-human-advantage-storytelling-in-the-age-of-ai-1260775",
+      "title": "HR Workshop - The Human Advantage: Storytelling in the Age of AI",
+      "description": "AI can generate code, emails, product descriptions, and pitch decks in seconds.",
+      "day": "Fri 10 Jul",
+      "timeRange": "12:15 – 14:15",
+      "speaker": {
+        "name": "Stefan Ganß",
+        "title": "Business Trainer",
+        "company": "Storytellingtrainer.de"
+      },
+      "tags": [],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/hr-workshop-the-human-advantage-storytelling-in-the-age-of-ai-1260775"
+    },
+    {
+      "id": "building-multi-agent-ai-systems-with-maf-from-copilot-to-orchestrated-agents-1259332",
+      "title": "Building Multi-Agent AI Systems with MAF: From Copilot to Orchestrated Agents",
+      "description": "This hands-on workshop focuses on building multi-agent AI systems using Microsoft's Multi-Agent Framework (MAF).",
+      "day": "Fri 10 Jul",
+      "timeRange": "12:15 – 14:15",
+      "speaker": {
+        "name": "Isha Salania <span class=\"text-base-content/60\"> +2 more</span>",
+        "title": "AI Solution Engineer",
+        "company": "Microsoft"
+      },
+      "tags": [
+        "AI Coding Assistants"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/building-multi-agent-ai-systems-with-maf-from-copilot-to-orchestrated-agents-1259332"
+    },
+    {
+      "id": "agents-that-own-their-inference-building-production-ai-agents-on-dedicated-gpus-1214194",
+      "title": "Agents That Own Their Inference: Building Production AI Agents on Dedicated GPUs",
+      "description": "Every production agent today is renting its intelligence.",
+      "day": "Fri 10 Jul",
+      "timeRange": "14:45 – 16:45",
+      "speaker": {
+        "name": "Duan Lightfoot",
+        "title": "Senior Developer Advocate",
+        "company": "Akamai"
+      },
+      "tags": [
+        "AI Models"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/agents-that-own-their-inference-building-production-ai-agents-on-dedicated-gpus-1214194"
+    },
+    {
+      "id": "generate-synthetic-data-for-physical-ai-with-nvidia-cosmos-world-foundation-mode-1245536",
+      "title": "Generate Synthetic Data for Physical AI with NVIDIA Cosmos World Foundation Models",
+      "description": "This hands-on lab introduces roboticists, AI developers, and pipeline engineers to NVIDIA Cosmos world foundation models (WFMs) for synthetic data generation in robot learning p…",
+      "day": "Fri 10 Jul",
+      "timeRange": "14:45 – 16:45",
+      "speaker": {
+        "name": "Alexander Schwarz <span class=\"text-base-content/60\"> +1 more</span>",
+        "title": "Solutions Architect",
+        "company": "NVIDIA"
+      },
+      "tags": [
+        "Data Pipelines"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/generate-synthetic-data-for-physical-ai-with-nvidia-cosmos-world-foundation-mode-1245536"
+    },
+    {
+      "id": "hack-me-bro-an-antifragile-ai-battle-arena-1245421",
+      "title": "Hack Me, Bro: An Antifragile AI Battle Arena",
+      "description": "I run an AI Battle Arena at arena.angel-serv.com.",
+      "day": "Fri 10 Jul",
+      "timeRange": "14:45 – 16:45",
+      "speaker": {
+        "name": "Andrew Demczuk",
+        "title": "Chief Revenue Officer",
+        "company": "angel-serve.com"
+      },
+      "tags": [
+        "AI Coding Assistants"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/hack-me-bro-an-antifragile-ai-battle-arena-1245421"
+    },
+    {
+      "id": "build-a-multi-channel-ai-agent-1245719",
+      "title": "Build a Multi-Channel AI Agent",
+      "description": "Building production AI agents means solving infrastructure problems before writing agent logic.",
+      "day": "Fri 10 Jul",
+      "timeRange": "14:45 – 16:45",
+      "speaker": {
+        "name": "Anni Chen",
+        "title": "Developer Evangelist",
+        "company": "Twilio"
+      },
+      "tags": [
+        "Agentic AI"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/build-a-multi-channel-ai-agent-1245719"
+    },
+    {
+      "id": "never-say-refactoring-is-impossible-1119580",
+      "title": "Never say refactoring is impossible",
+      "description": "In this talk I want to show possibilities for refactoring a CRUD based distributed system into an event driven architecture.",
+      "day": "Fri 10 Jul",
+      "timeRange": "14:45 – 16:45",
+      "speaker": {
+        "name": "Andreas Kleinbichler",
+        "title": "Engineering Manager",
+        "company": "Admiral Technologies"
+      },
+      "tags": [
+        "C#"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/never-say-refactoring-is-impossible-1119580"
+    },
+    {
+      "id": "hr-workshop-vibe-athon-where-hr-goes-to-build-4-4-1260776",
+      "title": "HR Workshop - Vibe:athon: Where HR Goes to Build 4/4",
+      "description": "If you can describe what you want, you can build it.",
+      "day": "Fri 10 Jul",
+      "timeRange": "14:45 – 16:45",
+      "speaker": {
+        "name": "Leandro Gomes da Silva <span class=\"text-base-content/60\"> +1 more</span>",
+        "title": "Founder",
+        "company": "The AI Laundry"
+      },
+      "tags": [],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/hr-workshop-vibe-athon-where-hr-goes-to-build-4-4-1260776"
+    },
+    {
+      "id": "context-models-how-to-make-your-agents-truly-intelligent-1259964",
+      "title": "Context > Models: How to make your agents truly intelligent",
+      "description": "Strong agents are not only defined by the model they use, but by the context they can access and the systems they can act on.",
+      "day": "Fri 10 Jul",
+      "timeRange": "14:45 – 16:45",
+      "speaker": {
+        "name": "Marc Teipel",
+        "title": "AI Solution Engineer",
+        "company": "Microsoft"
+      },
+      "tags": [
+        "AI Coding Assistants"
+      ],
+      "url": "https://www.wearedevelopers.com/world-congress/agenda/workshops/context-models-how-to-make-your-agents-truly-intelligent-1259964"
+    }
+  ]
+}
